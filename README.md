@@ -1,4 +1,4 @@
-# MEAN Stack Single Page Application Starter
+# MEAN Stack Single Page Application Starter [![Build Status](https://travis-ci.org/palashmon/starter-node-angular.svg?branch=master)](https://travis-ci.org/palashmon/starter-node-angular)
 
 This is a repo for a starter application for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application.
 
